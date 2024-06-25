@@ -17,3 +17,8 @@ Detecting age and gender of people from face images by training the model using 
 7. Upload the image you want to detect
 8. Click on detect button
 9. View Results
+
+## Output Samples
+1.[Output sample 1](https://github.com/aasthavats16/Age-Gender_Detector/blob/main/Output%20Sample%201.png)
+
+2.[Output Sample 2](https://github.com/aasthavats16/Age-Gender_Detector/blob/main/Output%20Sample%202.png)
